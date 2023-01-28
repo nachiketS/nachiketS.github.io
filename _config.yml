@@ -1,8 +1,18 @@
-title: Moonwalk
-author: Abhinav Saxena
-url: https://www.abhinavsaxena.com/moonwalk # root address of the site
+title: Nachiket Sirsikar
+author: Nachiket Sirsikar
+url: https://nachiketS.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
+  
+  <a href="mailto:youremail@example.com"><i style="font-size:24px" class="fa">&#xf0e0;</i></a>
+  <a href="https://linkedin.com/in/yourusername"><i style="font-size:24px" class="fa">&#xf08c;</i></a>
+  <a href="https://github.com/yourusername"><i style="font-size:24px" class="fa">&#xf09b;</i></a>
+  
+
+  <p>
+  👋 Hi, my name is Nachiket Sirsikar. I consider myself as a data generalist engineer with strong fundamentals
+  in Python, SQL and Big Data Technologies. I'm currently pursuing my graudate degree from Northeastern University.
+  <p>
+  You can read more  <a href="/about">here.</a> 
 
 permalink: /:slug
 
@@ -25,6 +35,7 @@ theme_config:
   show_footer: true # show footer links in home page,add in _data/home.yml
   show_copyright: true # show copyright notice in footer
   # following keys are using to create home layout
+  show_experience: true
   show_projects: true # show projects as cards, add in _data/home.yml
   show_blog: true # show blog posts added in _posts
   show_old_projects: true # show old projects as cards, add in _data/home.yml
@@ -33,9 +44,9 @@ theme_config:
   show_tags: true # show tags in a blog posts
   # options for "home" page
   home:
-    title_projects: Portfolio
+    title_projects: Projects
     title_misc_list: Details
-    title_blog: Blog
+    title_blog: Experience
     title_old_projects: Old Projects
 
 soopr:
