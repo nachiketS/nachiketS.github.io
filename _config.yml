@@ -3,9 +3,9 @@ author: Nachiket Sirsikar
 url: https://nachiketS.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
   
-  <a href="mailto:youremail@example.com"><i style="font-size:24px" class="fa">&#xf0e0;</i></a>
-  <a href="https://linkedin.com/in/yourusername"><i style="font-size:24px" class="fa">&#xf08c;</i></a>
-  <a href="https://github.com/yourusername"><i style="font-size:24px" class="fa">&#xf09b;</i></a>
+  <a href="mailto:nachiketsirsikar01@gmail.com"><i style="font-size:24px" class="fa">&#xf0e0;</i></a>
+  <a href="https://www.linkedin.com/in/nachiketsirsikar/"><i style="font-size:24px" class="fa">&#xf08c;</i></a>
+  <a href="https://github.com/nachiketS"><i style="font-size:24px" class="fa">&#xf09b;</i></a>
   
 
   <p>
@@ -17,10 +17,6 @@ description: > # description of the site (multiple lines allowed)
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
-
-twitter:
-    username: abhinav # update or delete this
-    card: summary_large_image
 
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
 remote_theme: abhinavs/moonwalk
