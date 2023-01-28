@@ -4,7 +4,7 @@ navbar_entries:
 
 project_entries:
   - title: Project 1
-    url: overview-post
+    url: test
     desc: This is an example project, configured in _data/home.yml
 
   - title: Project 2
@@ -22,7 +22,7 @@ project_entries:
 
   - title: Project 5
     url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
+    desc: Moonwalk also has horizontal list (used in header and footer) What happens if i keep typing here, does it go out of the box or does the box expand. If it expands do all the boxes expand or is it just that one box ?!?!?!?!?
     highlight: WIP
 
   - title: Project 6

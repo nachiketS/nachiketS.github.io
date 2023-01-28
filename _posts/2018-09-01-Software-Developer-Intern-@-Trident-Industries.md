@@ -12,4 +12,4 @@ layout: post
 - The outcomes of the project were instant troubleshooting as opposed to an onsite visit and the report generation feature helped preventing data tampering.
 
 ## Skills:
-    Python, Flask, Postgres, SQLAlchemy, git, Thingspeak API
+    Python, Flask, Postgres, SQLAlchemy, git, Thingspeak
